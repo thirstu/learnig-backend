@@ -17,4 +17,4 @@ exMethod.get('/lone',(req,res)=>{
 });
 exMethod.listen(process.env.PORT,(req,res)=>{
     console.log(`listening say, what! ${port}${process.env.PORT}`);
-})
+})                      
